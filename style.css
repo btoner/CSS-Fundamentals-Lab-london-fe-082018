@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+} 
+
+.featured-property {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* input[type="featured-property"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+*/
+
+a {
+  padding: 10px;
+  background-color: grey;
+  margin-left: auto;
+}
+
+p {
+  width: 800px;
+  text-align: center;
+}
+
+.figcaption {
+    color: red;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
